@@ -1,0 +1,9 @@
+CSS314 Python Sequential Result
+Student ID: 230103071
+N: 13071000
+Run 1 warmup: 192.962234
+Run 2: 282.527860
+Run 3: 176.190065
+T_seq: 229.358962
+Maximum stopping time: 688
+Checksum: 65260361
